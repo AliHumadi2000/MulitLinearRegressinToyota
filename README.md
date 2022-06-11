@@ -45,8 +45,8 @@ Tow_Bar -- Tow Bar  (Yes=1, No=0)
 
 # Analytics and Result in R
 
-![](Image\1.png)
-![](Image\2.png)
-![](Image\3.png)
-![](Image\4.png)
-![](Image\5.PNG)
+![](Image/1.png)
+![](Image/2.png)
+![](Image/3.png)
+![](Image/4.png)
+![](Image/5.PNG)
